@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("SADTRESULT")]
-[assembly: AssemblyDescription("Servico Interfaceamento Matrix")]
+[assembly: AssemblyTitle("SADTRESULT_INTERFACE")]
+[assembly: AssemblyDescription("Sistema de Interfaceamento Matrix")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Tecnologia da Informacao - HSCMV")]
-[assembly: AssemblyProduct("SADTRESULT")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyProduct("SADTRESULT_INTERFACE")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("31647b12-29a1-4795-9a33-f63162a0f827")]
+[assembly: Guid("3f77cbfc-7c71-4df2-8577-910f9e8a2493")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //
